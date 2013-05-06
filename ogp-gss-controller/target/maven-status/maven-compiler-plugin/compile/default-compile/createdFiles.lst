@@ -1,0 +1,5 @@
+org/OpenGeoPortal/Utilities/LogToFile.class
+org/OpenGeoPortal/gdal/GdalSizeInfoController.class
+org/OpenGeoPortal/gdal/GdalInquirerImpl$Size.class
+org/OpenGeoPortal/gdal/GdalInquirer.class
+org/OpenGeoPortal/gdal/GdalInquirerImpl.class
