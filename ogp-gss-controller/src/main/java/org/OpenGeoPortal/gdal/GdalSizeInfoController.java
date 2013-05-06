@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 * name string below the ImageCollection directory name (this is the
 * name identifying the Store in Geoserver). It returns a JSON string
 * which defines an object that has four properties: 'minx', 'miny',
-* 'maxx', 'maxy'. In the web.xml, you can set two configuration
+* 'maxx', 'maxy'. In the gdal.properties, you can set two configuration
 * parameters. One, imagesDir, is the absolute path of the
 * ImageCollection directory with a trailing slash. The other,
 * gdalInfoPath, is the absolute path of the gdalinfo command.
