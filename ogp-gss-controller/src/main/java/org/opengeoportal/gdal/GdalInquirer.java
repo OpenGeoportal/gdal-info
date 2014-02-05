@@ -1,10 +1,10 @@
-package org.OpenGeoPortal.gdal;
+package org.opengeoportal.gdal;
 
 import java.io.IOException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.OpenGeoPortal.gdal.GdalInquirerImpl.Size;
+import org.opengeoportal.gdal.GdalInquirerImpl.Size;
 
 public interface GdalInquirer {
 	Size getSizeInfo(String path) throws Exception;

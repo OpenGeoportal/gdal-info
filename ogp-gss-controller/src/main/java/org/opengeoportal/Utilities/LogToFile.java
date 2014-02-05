@@ -1,4 +1,4 @@
-package org.OpenGeoPortal.Utilities;
+package org.opengeoportal.Utilities;
 
 import java.io.File;
 import java.io.FileWriter;

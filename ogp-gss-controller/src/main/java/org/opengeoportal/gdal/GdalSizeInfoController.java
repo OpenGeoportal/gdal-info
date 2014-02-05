@@ -1,9 +1,9 @@
-package org.OpenGeoPortal.gdal;
+package org.opengeoportal.gdal;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import org.OpenGeoPortal.gdal.GdalInquirerImpl.Size;
+import org.opengeoportal.gdal.GdalInquirerImpl.Size;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

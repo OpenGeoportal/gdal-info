@@ -1,4 +1,4 @@
-package org.OpenGeoPortal.gdal;
+package org.opengeoportal.gdal;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.regex.PatternSyntaxException;
 
-import org.OpenGeoPortal.Utilities.LogToFile;
+import org.opengeoportal.Utilities.LogToFile;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
